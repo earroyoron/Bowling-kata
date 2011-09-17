@@ -1,0 +1,6 @@
+#	.gitignore
+bowlingkata/.settings/
+bowlingkata/target/**/*
+.project
+.classpath
+
